@@ -15,7 +15,9 @@
 - <em>Open AI API</em>: 사용자의 입력을 바탕으로 OSM 데이터의 태그 추출을 위해 AI를 호출하여 데이터 추출<br>
 <hr>
 
-:four_leaf_clover: <strong>구현 과정</strong> <br>
+:four_leaf_clover: <strong>구현 과정 및 결과</strong> <br><br>
 ![1738221258098-7fb995f2-d1f3-4109-bb0f-31fb55b71cbc_5](https://github.com/user-attachments/assets/dccbc213-5813-40a7-bfe8-2c25668f87dd)
+
+![1738221258098-7fb995f2-d1f3-4109-bb0f-31fb55b71cbc_19](https://github.com/user-attachments/assets/73e3428e-aade-4b8b-ab02-6c65ef4a6333)
 
 
