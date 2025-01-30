@@ -16,5 +16,6 @@
 <hr>
 
 :four_leaf_clover: <strong>구현 과정</strong> <br>
+![Image](https://github.com/user-attachments/assets/f288edf8-ac58-4dea-8e27-30508a7b3027)
 
 
