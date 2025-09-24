@@ -16,9 +16,15 @@
 <hr>
 
 :four_leaf_clover: <strong>구현 과정 및 결과</strong> <br><br>
+데모 영상: https://youtube.com/shorts/8ar_WebzLu8
+<br><br>
 ![1738221258098-7fb995f2-d1f3-4109-bb0f-31fb55b71cbc_5](https://github.com/user-attachments/assets/dccbc213-5813-40a7-bfe8-2c25668f87dd)
 
 ![1738221258098-7fb995f2-d1f3-4109-bb0f-31fb55b71cbc_6](https://github.com/user-attachments/assets/48be81b2-cea4-40cd-bb6d-2c9d76a41e42)
 
+<br>
+
+<hr>
+:four_leaf_clover: <strong>세부 사항</strong> <br>
 
 
