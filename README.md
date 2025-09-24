@@ -30,6 +30,20 @@
 <br>
 
 <hr>
+:four_leaf_clover: <strong>코드 구조</strong> <br>
+
+```text
+2024_lab_LLM_based_running_route/
+├─ app.py # 메인 실행 파일, 사용자 입력 처리 및 전체 흐름 제어
+├─ llm_processor.py # LLM을 활용해 자연어 요구사항을 JSON 형식으로 구조화
+├─ osm_processor.py # Google Geocoding + OSM 데이터를 사용해 경로 후보 생성/필터링
+├─ requirements.txt # 프로젝트 실행에 필요한 라이브러리 목록
+├─ README.md # 프로젝트 소개 및 사용법 문서
+└─ __pycache__/ # 파이썬 바이트코드 캐시 디렉터리 (자동 생성)
+```
+
+
+<hr>
 :four_leaf_clover: <strong>세부 사항</strong> <br>
                                                 
 1. <strong>문제 정의</strong> <br>
