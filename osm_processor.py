@@ -7,7 +7,7 @@ import random
 
 # Google Maps API 키 설정
 import googlemaps
-gmaps = googlemaps.Client(key='AIzaSyBuGA81AzSCs9pqWOMG6255aaElmBrXzUc')
+gmaps = googlemaps.Client(key='your key')
 
 def get_osm_features(start, end, features):
     start_geocode = gmaps.geocode(start, language='ko')
