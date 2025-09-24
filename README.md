@@ -41,6 +41,9 @@
 ├─ README.md # 프로젝트 소개 및 사용법 문서
 └─ __pycache__/ # 파이썬 바이트코드 캐시 디렉터리 (자동 생성)
 ```
+주의사항
+1. .env 파일에 api key 설정해두기
+2. osm_processor.py에 google maps api key 설정해두기
 
 
 <hr>
