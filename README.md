@@ -1,5 +1,6 @@
 [2024_lab] <br>
-<h2>LLM 기반 개인 맞춤형 러닝 경로 추천 앱</h2>
+:four_leaf_clover: <strong>프로젝트명</strong> <br>
+<strong>RUNNING MATE - </strong> LLM 기반 개인 맞춤형 러닝 경로 추천 앱
 <hr>
 
 :four_leaf_clover: <strong>프로젝트 소개</strong> <br>
